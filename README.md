@@ -4,11 +4,15 @@ Mega Project List
 Numbers
 ---------
 
-**Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go. *Solutions:* [Ruby](https://github.com/mjhea0/Projects/blob/master/Numbers/pi.rb)
+**Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go. 
+
+- [Ruby](https://github.com/mjhea0/Projects/blob/master/Numbers/pi.rb)
 
 **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
 **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
+
+- [Python](https://github.com/mjhea0/Projects/blob/master/Numbers/prime.py)
 
 **Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.
 
